@@ -1,0 +1,88 @@
+body, html {
+	margin: 0px;
+	height: 100%;
+	width: 100%;
+	font-family: Tahoma, Verdana, Segoe, sans-serif;
+	background: url(../img/website-design-background-1.jpg)  #171716;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #000;
+}
+
+.main {
+	position: relative;
+	top: 45%;
+	transform: translateY(-50%);
+	text-align: center;
+}
+
+h1 {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 60px;
+	font-weight: normal;
+}
+
+h3 {
+	font-weight: normal;
+	margin-top: 5px;
+}
+
+i {
+	margin-top: 10px;
+	margin-bottom: 50px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+
+a {
+	color: inherit;
+}
+
+.avatar {
+	border-radius: 100%;
+	height: 300px;
+	width: 300px;
+}
+
+.thumbnail {
+	position: relative;
+    top: 50%;
+    left: 50%;
+
+    width: 370px;
+    height: 240px;
+
+    -webkit-transform: translate(-50%,-50%); /* Safari and Chrome */
+    -moz-transform: translate(-50%,-50%); /* Firefox */
+    -ms-transform: translate(-50%,-50%); /* IE 9 */
+    -o-transform: translate(-50%,-50%); /* Opera */
+    transform: translate(-50%,-50%);
+}
+
+
+.image {
+    width: 100%;
+    height: 100%;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 0px;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  font-weight: normal;
+  margin-top: 0px;
+}
